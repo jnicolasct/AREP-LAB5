@@ -41,5 +41,7 @@ Para el balanceador de carga se reañizo un pequeño metodo que por turno le va 
 
 El reporte fue generado mediante latex, su nombre es Media y Desviacion estadar. Se encuentra en la raiz del proyecto
 
+[report](https://github.com/jnicolasct/AREP-LAB5/blob/master/resources/Introduccion_Docker_y_AWS.pdf)
+
 ## Autor
   Johan Nicolas Cortes Torres
