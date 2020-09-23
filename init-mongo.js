@@ -1,0 +1,10 @@
+db.createUser(
+    {
+        user:"johan",
+        pwd:"arep",
+        roles:[{
+            role:"readWrite",
+            db:"Arep5Docker"
+        }]
+    }
+)
